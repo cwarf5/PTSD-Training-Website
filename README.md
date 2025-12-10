@@ -4,7 +4,7 @@ This repository showcases a comprehensive web application developed as a capston
 
 ## Project Overview
 
-The FinalSWEProject is a web-based platform designed to provide users with an interactive learning experience. The application includes features such as course listings, lesson modules, and a checkout system for purchasing courses. The project is deployed and can be accessed [here](https://cwarf5.github.io/FinalSWEProject/).
+The FinalSWEProject is a web-based platform designed to provide users with an interactive learning experience. The application includes features such as course listings, lesson modules, and a checkout system for purchasing courses. The project is deployed and can be accessed [here][(https://cwarf5.github.io/FinalSWEProject/).](https://cwarf5.github.io/FinalSWEProject/)
 
 ## Features
 
